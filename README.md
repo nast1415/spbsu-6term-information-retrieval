@@ -1,1 +1,3 @@
-"# spbsu-6term-information-retrieval" 
+### Information retrieval course
+
+Homeworks and projects
